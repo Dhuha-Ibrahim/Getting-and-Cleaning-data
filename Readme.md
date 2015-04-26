@@ -1,6 +1,6 @@
 ---
-title: "Readme.rmd"
-author: "Dhuha"
+title: "Readme.md"
+author: "Anisha Kumar"
 date: "Thursday, April 23, 2015"
 
 ---
